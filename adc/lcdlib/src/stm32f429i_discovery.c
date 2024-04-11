@@ -36,7 +36,6 @@
   
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f429i_discovery.h"
-#include <stm32_hal_i2c.h>
 //#include "cmsis_nvic.h" // // Added for mbed
 
 // Added for mbed. This function replaces HAL_Delay()
